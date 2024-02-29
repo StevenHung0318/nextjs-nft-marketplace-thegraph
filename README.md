@@ -7,8 +7,8 @@
 In it's own terminal / command line, run: 
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-nft-marketplace-fcc
-cd hardhat-nextjs-nft-marketplace-fcc
+git clone https://github.com/StevenHung0318/hardhat-nft-marketplace
+cd hardhat-nft-marketplace
 yarn
 ```
 
@@ -24,12 +24,12 @@ yarn hardhat deploy --network sepolia
 
 ```
 cd ..
-git clone https://github.com/PatrickAlphaC/graph-nft-marketplace-fcc
-cd graph-nft-marketplace-fcc
+git clone https://github.com/StevenHung0318/graph-nft-marketplace
+cd graph-nft-marketplace
 yarn
 ```
 
-Follow the instructions of the [README](https://github.com/PatrickAlphaC/graph-nft-marketplace-fcc/blob/main/README.md) of that repo. 
+Follow the instructions of the [README](https://github.com/StevenHung0318/graph-nft-marketplace/blob/main/README.md) of that repo. 
 
 Then, make a `.env` file and place your temporary query URL into it as `NEXT_PUBLIC_SUBGRAPH_URL`.
 
